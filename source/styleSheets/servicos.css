@@ -1,0 +1,42 @@
+.servicosMain {
+    padding: 50px 0;
+}
+
+.servicosMain li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.servicosMain li:hover {
+    border-color: #c78c19;
+}
+
+.servicosMain li:hover h2 {
+    font-size: 34px;
+}
+
+.servicosMain li:active {
+    border-color: #088c19;
+}
+
+.servicosMain h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.servico-descricao {
+    font-size: 18px;
+}
+
+.servico-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px 0 0;
+}
