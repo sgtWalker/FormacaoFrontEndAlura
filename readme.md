@@ -1,1 +1,1 @@
-Projeto desenvolvido durante a formação frontend do Alura
+Projeto desenvolvido durante a formação frontend no Alura
