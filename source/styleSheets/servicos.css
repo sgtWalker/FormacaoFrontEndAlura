@@ -40,3 +40,12 @@
     font-weight: bold;
     margin: 10px 0 0;
 }
+
+@media screen and (max-width: 480px) {
+    .servicosMain li {
+        display: block;
+        width: 95%;
+        margin: 1% 2%;
+        padding: 0 0;
+    }
+}
